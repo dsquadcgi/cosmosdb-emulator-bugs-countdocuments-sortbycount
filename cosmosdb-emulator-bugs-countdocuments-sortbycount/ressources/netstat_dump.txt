@@ -1,0 +1,393 @@
+
+Connexions actives
+
+  Proto  Adresse locale         Adresse distante       êtat
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING
+  CDPSvc
+ [svchost.exe]
+  TCP    0.0.0.0:5357           0.0.0.0:0              LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    0.0.0.0:7680           0.0.0.0:0              LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING
+ [lsass.exe]
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING
+ [spoolsv.exe]
+  TCP    0.0.0.0:49669          0.0.0.0:0              LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    0.0.0.0:64120          0.0.0.0:0              LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    0.0.0.0:64121          0.0.0.0:0              LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    127.0.0.1:2392         127.0.0.1:2393         ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:2393         127.0.0.1:2392         ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:2394         127.0.0.1:2395         ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:2395         127.0.0.1:2394         ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:2400         127.0.0.1:2401         ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:2401         127.0.0.1:2400         ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:2407         127.0.0.1:2408         ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:2408         127.0.0.1:2407         ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:2409         127.0.0.1:2410         ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:2410         127.0.0.1:2409         ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:8081         0.0.0.0:0              LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    127.0.0.1:8081         127.0.0.1:14385        ESTABLISHED
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    127.0.0.1:10000        0.0.0.0:0              LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    127.0.0.1:10001        0.0.0.0:0              LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    127.0.0.1:10002        0.0.0.0:0              LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    127.0.0.1:10251        0.0.0.0:0              LISTENING
+ [Microsoft.Azure.Cosmos.Master.exe]
+  TCP    127.0.0.1:10251        127.0.0.1:14274        ESTABLISHED
+ [Microsoft.Azure.Cosmos.Master.exe]
+  TCP    127.0.0.1:10251        127.0.0.1:14292        ESTABLISHED
+ [Microsoft.Azure.Cosmos.Master.exe]
+  TCP    127.0.0.1:10252        0.0.0.0:0              LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    127.0.0.1:10253        0.0.0.0:0              LISTENING
+ [Microsoft.Azure.Cosmos.Server.exe]
+  TCP    127.0.0.1:10253        127.0.0.1:14291        ESTABLISHED
+ [Microsoft.Azure.Cosmos.Server.exe]
+  TCP    127.0.0.1:10253        127.0.0.1:14293        ESTABLISHED
+ [Microsoft.Azure.Cosmos.Server.exe]
+  TCP    127.0.0.1:10254        0.0.0.0:0              LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    127.0.0.1:10255        0.0.0.0:0              LISTENING
+ [Microsoft.Azure.Cosmos.Compute.Host.ServiceFabric.exe]
+  TCP    127.0.0.1:12260        127.0.0.1:65001        ESTABLISHED
+ [nvcontainer.exe]
+  TCP    127.0.0.1:12272        127.0.0.1:49679        ESTABLISHED
+ [NVIDIA Share.exe]
+  TCP    127.0.0.1:13031        127.0.0.1:13032        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:13032        127.0.0.1:13031        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:13896        127.0.0.1:13897        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:13897        127.0.0.1:13896        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:13955        127.0.0.1:13956        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:13956        127.0.0.1:13955        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:14037        0.0.0.0:0              LISTENING
+ [ServiceHub.TestWindowStoreHost.exe]
+  TCP    127.0.0.1:14038        0.0.0.0:0              LISTENING
+ [devenv.exe]
+  TCP    127.0.0.1:14039        0.0.0.0:0              LISTENING
+ [Microsoft.Alm.Shared.Remoting.RemoteContainer.dll]
+  TCP    127.0.0.1:14042        0.0.0.0:0              LISTENING
+ [ServiceHub.TestWindowStoreHost.exe]
+  TCP    127.0.0.1:14042        127.0.0.1:14045        ESTABLISHED
+ [ServiceHub.TestWindowStoreHost.exe]
+  TCP    127.0.0.1:14045        127.0.0.1:14042        ESTABLISHED
+ [vstest.console.exe]
+  TCP    127.0.0.1:14161        127.0.0.1:14162        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:14162        127.0.0.1:14161        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:14210        127.0.0.1:14211        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:14211        127.0.0.1:14210        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:14238        127.0.0.1:14239        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:14239        127.0.0.1:14238        ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:14274        127.0.0.1:10251        ESTABLISHED
+ [Microsoft.Azure.Cosmos.GatewayService.exe]
+  TCP    127.0.0.1:14291        127.0.0.1:10253        ESTABLISHED
+ [Microsoft.Azure.Cosmos.GatewayService.exe]
+  TCP    127.0.0.1:14292        127.0.0.1:10251        ESTABLISHED
+ [Microsoft.Azure.Cosmos.Compute.Host.ServiceFabric.exe]
+  TCP    127.0.0.1:14293        127.0.0.1:10253        ESTABLISHED
+ [Microsoft.Azure.Cosmos.Compute.Host.ServiceFabric.exe]
+  TCP    127.0.0.1:14385        127.0.0.1:8081         ESTABLISHED
+ [Microsoft.Azure.Cosmos.Compute.Host.ServiceFabric.exe]
+  TCP    127.0.0.1:14414        127.0.0.1:8081         TIME_WAIT
+  TCP    127.0.0.1:49679        0.0.0.0:0              LISTENING
+ [NVIDIA Web Helper.exe]
+  TCP    127.0.0.1:49679        127.0.0.1:12272        ESTABLISHED
+ [NVIDIA Web Helper.exe]
+  TCP    127.0.0.1:65001        0.0.0.0:0              LISTENING
+ [nvcontainer.exe]
+  TCP    127.0.0.1:65001        127.0.0.1:12260        ESTABLISHED
+ [nvcontainer.exe]
+  TCP    192.168.56.1:139       0.0.0.0:0              LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    192.168.88.71:139      0.0.0.0:0              LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    192.168.88.71:12286    52.114.75.169:443      ESTABLISHED
+ [Teams.exe]
+  TCP    192.168.88.71:12293    40.67.251.132:443      ESTABLISHED
+  WpnService
+ [svchost.exe]
+  TCP    192.168.88.71:12329    34.218.161.49:443      ESTABLISHED
+ [firefox.exe]
+  TCP    192.168.88.71:12332    52.114.88.9:443        ESTABLISHED
+ [Teams.exe]
+  TCP    192.168.88.71:12342    3.123.217.208:443      ESTABLISHED
+ [slack.exe]
+  TCP    192.168.88.71:12371    192.168.0.100:8443     ESTABLISHED
+ [firefox.exe]
+  TCP    192.168.88.71:12742    192.168.88.150:445     ESTABLISHED
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    192.168.88.71:13147    192.168.0.100:8443     ESTABLISHED
+ [firefox.exe]
+  TCP    192.168.88.71:13148    192.168.0.100:8443     ESTABLISHED
+ [firefox.exe]
+  TCP    192.168.88.71:13158    18.184.99.158:443      ESTABLISHED
+ [firefox.exe]
+  TCP    192.168.88.71:13253    216.58.215.46:443      ESTABLISHED
+ [firefox.exe]
+  TCP    192.168.88.71:13941    40.77.226.250:443      ESTABLISHED
+ [PerfWatson2.exe]
+  TCP    192.168.88.71:13986    52.166.127.37:9354     ESTABLISHED
+ [ServiceHub.SettingsHost.exe]
+  TCP    192.168.88.71:14025    52.166.127.37:9354     ESTABLISHED
+ [ServiceHub.SettingsHost.exe]
+  TCP    192.168.88.71:14252    116.203.108.108:443    ESTABLISHED
+ [firefox.exe]
+  TCP    192.168.88.71:14374    216.58.198.214:443     ESTABLISHED
+ [firefox.exe]
+  TCP    192.168.88.71:14375    77.192.211.44:443      TIME_WAIT
+  TCP    192.168.88.71:14376    77.192.211.44:443      ESTABLISHED
+ [firefox.exe]
+  TCP    192.168.88.71:14377    216.58.198.214:443     ESTABLISHED
+ [firefox.exe]
+  TCP    192.168.88.71:14378    91.68.245.76:443       ESTABLISHED
+ [firefox.exe]
+  TCP    192.168.88.71:14379    91.68.245.76:443       TIME_WAIT
+  TCP    192.168.88.71:14390    13.32.145.39:443       ESTABLISHED
+ [firefox.exe]
+  TCP    192.168.88.71:14391    13.32.145.68:443       ESTABLISHED
+ [firefox.exe]
+  TCP    192.168.88.71:14395    18.184.99.133:443      ESTABLISHED
+ [firefox.exe]
+  TCP    192.168.88.71:14397    52.114.104.170:443     ESTABLISHED
+ [Teams.exe]
+  TCP    192.168.88.71:14398    52.113.194.132:443     ESTABLISHED
+ [Teams.exe]
+  TCP    192.168.88.71:14402    35.186.227.140:443     ESTABLISHED
+ [firefox.exe]
+  TCP    192.168.88.71:14403    35.165.119.189:443     ESTABLISHED
+ [firefox.exe]
+  TCP    192.168.88.71:14406    13.107.21.200:443      ESTABLISHED
+ [SearchApp.exe]
+  TCP    192.168.88.71:14407    13.107.21.200:443      ESTABLISHED
+ [SearchApp.exe]
+  TCP    192.168.88.71:14408    52.97.233.66:443       ESTABLISHED
+ [SearchApp.exe]
+  TCP    192.168.88.71:14409    13.107.19.254:443      ESTABLISHED
+ [SearchApp.exe]
+  TCP    192.168.88.71:14410    152.199.19.161:443     ESTABLISHED
+ [SearchApp.exe]
+  TCP    192.168.88.71:14411    204.79.197.222:443     ESTABLISHED
+ [SearchApp.exe]
+  TCP    192.168.88.71:14412    20.140.56.71:443       ESTABLISHED
+ [SearchApp.exe]
+  TCP    192.168.99.1:139       0.0.0.0:0              LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    [::]:135               [::]:0                 LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    [::]:445               [::]:0                 LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    [::]:5357              [::]:0                 LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    [::]:7680              [::]:0                 LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    [::]:49664             [::]:0                 LISTENING
+ [lsass.exe]
+  TCP    [::]:49665             [::]:0                 LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    [::]:49666             [::]:0                 LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    [::]:49667             [::]:0                 LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    [::]:49668             [::]:0                 LISTENING
+ [spoolsv.exe]
+  TCP    [::]:49669             [::]:0                 LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    [::]:64120             [::]:0                 LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    [::]:64121             [::]:0                 LISTENING
+ Impossible d'obtenir les informations de propriÇtaire
+  TCP    [::1]:10255            [::]:0                 LISTENING
+ [Microsoft.Azure.Cosmos.Compute.Host.ServiceFabric.exe]
+  TCP    [::1]:14415            [::1]:8081             SYN_SENT
+ [Microsoft.Azure.Cosmos.Server.exe]
+  TCP    [::1]:49955            [::]:0                 LISTENING
+ [jhi_service.exe]
+  UDP    0.0.0.0:500            *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+ [dashost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+ [dashost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:4500           *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:5050           *:*                    
+  CDPSvc
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:5355           *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:49180          *:*                    
+ [Teams.exe]
+  UDP    0.0.0.0:55529          *:*                    
+ [nvcontainer.exe]
+  UDP    0.0.0.0:59500          *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:62039          *:*                    
+ [Teams.exe]
+  UDP    0.0.0.0:64877          *:*                    
+ [dashost.exe]
+  UDP    127.0.0.1:1900         *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:10010        *:*                    
+ [NVIDIA Web Helper.exe]
+  UDP    127.0.0.1:55489        *:*                    
+  iphlpsvc
+ [svchost.exe]
+  UDP    127.0.0.1:55512        *:*                    
+ [nvcontainer.exe]
+  UDP    127.0.0.1:61199        *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.56.1:137       *:*                    
+ Impossible d'obtenir les informations de propriÇtaire
+  UDP    192.168.56.1:138       *:*                    
+ Impossible d'obtenir les informations de propriÇtaire
+  UDP    192.168.56.1:1900      *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.56.1:5353      *:*                    
+ [nvcontainer.exe]
+  UDP    192.168.56.1:61198     *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.88.71:137      *:*                    
+ Impossible d'obtenir les informations de propriÇtaire
+  UDP    192.168.88.71:138      *:*                    
+ Impossible d'obtenir les informations de propriÇtaire
+  UDP    192.168.88.71:1900     *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.88.71:5353     *:*                    
+ [nvcontainer.exe]
+  UDP    192.168.88.71:61196    *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.99.1:137       *:*                    
+ Impossible d'obtenir les informations de propriÇtaire
+  UDP    192.168.99.1:138       *:*                    
+ Impossible d'obtenir les informations de propriÇtaire
+  UDP    192.168.99.1:1900      *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.99.1:5353      *:*                    
+ [nvcontainer.exe]
+  UDP    192.168.99.1:61197     *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::]:500               *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+ [dashost.exe]
+  UDP    [::]:3702              *:*                    
+ [dashost.exe]
+  UDP    [::]:4500              *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:5353              *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:5355              *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:49180             *:*                    
+ [Teams.exe]
+  UDP    [::]:55530             *:*                    
+ [nvcontainer.exe]
+  UDP    [::]:59501             *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:62039             *:*                    
+ [Teams.exe]
+  UDP    [::]:64878             *:*                    
+ [dashost.exe]
+  UDP    [::1]:1900             *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:5353             *:*                    
+ [nvcontainer.exe]
+  UDP    [::1]:61195            *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::3c57:d2d4:5196:7e5e%15]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::3c57:d2d4:5196:7e5e%15]:61193  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::70ea:ce25:3dbb:7395%7]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::70ea:ce25:3dbb:7395%7]:61192  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::7c3c:9963:82bc:33a4%17]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::7c3c:9963:82bc:33a4%17]:61194  *:*                    
+  SSDPSRV
+ [svchost.exe]
